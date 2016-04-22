@@ -61,12 +61,6 @@
             <version>${slf4j-version}</version>
         </dependency>
 
-        <dependency>
-            <groupId>org.apache.camel</groupId>
-            <artifactId>camel-sql</artifactId>
-            <version>${camel-version}</version>
-        </dependency>
-
     </dependencies>
 
 
